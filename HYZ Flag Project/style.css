@@ -1,0 +1,36 @@
+.whole-flag {
+  width: 900px;
+  height: 600px;
+  background-color: red;
+  position: relative;
+
+}
+
+p{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+
+}
+
+.middle-rectangle {
+  width: 900px;
+  height: 250px;
+  background-color: blue;
+  position: absolute;
+  top: 170px;
+}
+
+.circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 70px;
+  position: absolute;
+  left: 350px;
+  bottom: -50px;
+}
+
